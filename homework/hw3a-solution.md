@@ -35,6 +35,7 @@ Complete this section with details from your setup:
 
 
 ## Questions
+
 ### Reflections
 
 #### Question 1: Git Workflow Benefits
@@ -96,3 +97,4 @@ I can’t push to `class_repo` because I don’t own it; I can push to `my_repo`
 **b)** For this class repo, the README should say who I am, what the course is, and what’s inside. An open-source README is more about install/run instructions.
 
 **c)** Doing this during the semester builds a real history instead of trying to make one right before job hunting. Good habits: meaningful commit messages, push often, keep the repo tidy.
+
