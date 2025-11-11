@@ -96,5 +96,5 @@ I can’t push to `class_repo` because I don’t own it; I can push to `my_repo`
 
 **b)** For this class repo, the README should say who I am, what the course is, and what’s inside. An open-source README is more about install/run instructions.
 
-**c)** Doing this during the semester builds a real history instead of trying to make one right before job hunting. Good habits: meaningful commit messages, push often, keep the repo tidy.
+**c)** Doing this during the semester builds a real history instead of trying to make one when just need it . Good habits: meaningful commit messages, push often, keep the repo tidy.
 
